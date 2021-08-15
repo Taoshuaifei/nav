@@ -11,16 +11,16 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://nav-5refrc52y-tsf-nav.vercel.app/',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '小陶同学の导航站',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '这是-小陶同学の导航站',
 
   // 网站关键字
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
@@ -40,7 +40,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?3c08ec4d2e4f633ef160b2d59993a5e1',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
