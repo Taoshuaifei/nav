@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav-5refrc52y-tsf-nav.vercel.app/',
+  homeUrl: 'https://nav-tsf-nav.vercel.app/',
 
   // 网站标题
   title: '小陶同学の导航站',
@@ -40,7 +40,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?3c08ec4d2e4f633ef160b2d59993a5e1',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?aa4906a5bad69948bef07d1d3b7f7b2a',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
